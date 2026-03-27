@@ -158,3 +158,4 @@ console.log(text)
 
 text = 'javaScriptをマスターした';
 console.log(text);
+
