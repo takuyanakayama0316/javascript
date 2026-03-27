@@ -1,3 +1,4 @@
+応用編
 let randomsNum = Math.floor(Math.random()*10);
 
 console.log(randomsNum);
